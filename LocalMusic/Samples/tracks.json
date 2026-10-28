@@ -1,0 +1,20 @@
+[
+  {
+    "file": "morning.wav",
+    "title": "晨光漫步",
+    "artist": "Local Music · 原创测试音轨",
+    "duration": 48
+  },
+  {
+    "file": "night.wav",
+    "title": "夜色微风",
+    "artist": "Local Music · 原创测试音轨",
+    "duration": 48
+  },
+  {
+    "file": "journey.wav",
+    "title": "轻快旅程",
+    "artist": "Local Music · 原创测试音轨",
+    "duration": 48
+  }
+]
